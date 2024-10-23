@@ -22,6 +22,7 @@ import loading from "./loading.png";
 import background from "./background.jpg";
 
 import curve from "./hero/curve.png";
+import heroImage from "./hero/heroImage.jpg";
 import robot from "./hero/robot.jpg";
 import heroBackground from "./hero/hero-background.jpg";
 
@@ -35,6 +36,7 @@ import photoshop from "./collaboration/photoshop.png";
 import protopie from "./collaboration/protopie.png";
 import raindrop from "./collaboration/raindrop.png";
 import slack from "./collaboration/slack.png";
+import heroWaterMark from "./hero/heroWaterMark.jpg";
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -94,11 +96,13 @@ export {
   recording03,
   recording01,
   disc02,
+  heroWaterMark,
   chromecast,
   sliders04,
   loading,
   background,
   curve,
+  heroImage,
   robot,
   heroBackground,
   curve1,
