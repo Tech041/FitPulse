@@ -69,6 +69,15 @@ import benefitIcon1 from "./benefits/icon-1.svg";
 import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
+import gymImage1 from "./benefits/gymImage1.jpeg";
+import gymImage2 from "./benefits/gymImage2.jpg";
+import gymImage3 from "./benefits/gymImage3.jpg";
+import gymImage4 from "./benefits/gymImage4.jpg";
+import gymImage5 from "./benefits/gymImage5.jpeg";
+import gymImage6 from "./benefits/gymImage6.jpg";
+import gymImage7 from "./benefits/gymImage7.jpg";
+import gymImage8 from "./benefits/gymImage8.jpg";
+
 import benefitImage2 from "./benefits/image-2.png";
 
 import discordBlack from "./socials/discord.svg";
@@ -88,6 +97,14 @@ export {
   gradient,
   smallSphere,
   grid,
+  gymImage1,
+  gymImage2,
+  gymImage3,
+  gymImage4,
+  gymImage5,
+  gymImage6,
+  gymImage7,
+  gymImage8,
   yourlogo,
   homeSmile,
   file02,
