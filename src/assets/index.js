@@ -40,7 +40,8 @@ import heroWaterMark from "./hero/heroWaterMark.jpg";
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
-import service3 from "./services/service-3.png";
+import serviceImage from "./services/serviceImage.jpg";
+import serviceImage2 from "./services/serviceImage2.webp";
 
 import lines from "./pricing/lines.svg";
 import stars from "./pricing/stars.svg";
@@ -134,7 +135,8 @@ export {
   slack,
   service1,
   service2,
-  service3,
+  serviceImage,
+  serviceImage2,
   lines,
   stars,
   coins,

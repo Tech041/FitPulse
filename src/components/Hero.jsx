@@ -20,10 +20,10 @@ const Hero = () => {
     >
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
-          <h1 className="h1 mb-6 capitalize text-purple-600">
+          <h1 className="h1 mb-6 capitalize text-white">
             Where fitness becomes your lifestyle
           </h1>
-          <p className="body-1 max-w-3xl mx-auto mb-6 text-white lg:mb-8">
+          <p className="body-1 max-w-3xl mx-auto mb-6 text-purple-500 font-semibold lg:mb-8">
             FitPulse is the best gym in the city of Lagos, we have skillful and
             professional instructors.
           </p>

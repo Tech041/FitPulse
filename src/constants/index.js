@@ -3,7 +3,6 @@ import {
   benefitIcon2,
   benefitIcon3,
   benefitIcon4,
-  benefitImage2,
   chromecast,
   disc02,
   discordBlack,
@@ -39,27 +38,27 @@ import {
 export const navigation = [
   {
     id: "0",
-    title: "Features",
+    title: "Benefits",
     url: "#features",
   },
   {
     id: "1",
-    title: "Pricing",
-    url: "#pricing",
-  },
-  {
-    id: "2",
-    title: "How to use",
+    title: "contact us",
     url: "#how-to-use",
   },
   {
+    id: "2",
+    title: "package",
+    url: "#pricing",
+  },
+  {
     id: "3",
-    title: "Roadmap",
+    title: "about us",
     url: "#roadmap",
   },
   {
     id: "4",
-    title: "New account",
+    title: "sign up",
     url: "#signup",
     onlyMobile: true,
   },
@@ -77,10 +76,10 @@ export const notificationImages = [notification4, notification3, notification2];
 
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
-export const brainwaveServices = [
-  "Photo generating",
-  "Photo enhance",
-  "Seamless Integration",
+export const fitPulseServices = [
+  "Private sessions",
+  "Convenient schedules",
+  "Follow-up",
 ];
 
 export const brainwaveServicesIcons = [
@@ -94,34 +93,34 @@ export const brainwaveServicesIcons = [
 export const roadmap = [
   {
     id: "0",
-    title: "Voice recognition",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
-    date: "May 2023",
-    status: "done",
+    title: "Foundation",
+    text: "FitPulse was founded on the pursuit of self-improvement.Our gym is architecturally designed to give you the best atmosphere for a satisfactory workout and a beautiful view of the city of Lagos.",
+    date: " Since July 2020",
+    status: "progress",
     imageUrl: roadmap1,
     colorful: true,
   },
   {
     id: "1",
-    title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
-    date: "May 2023",
+    title: "Online Instruction",
+    text: "We have integrated online gym instructions into our operations so that our clients can have same  physical and online experience.",
+    date: " Since May 2021",
     status: "progress",
     imageUrl: roadmap2,
   },
   {
     id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
-    date: "May 2023",
-    status: "done",
+    title: "Real time chat  with your instructors",
+    text: " Our coaches lead the fitness industry when it comes to helping people get into the best shape of their lives and reaching their fitness goals safely.",
+    date: " Since Dec 2023",
+    status: "progress",
     imageUrl: roadmap3,
   },
   {
     id: "3",
-    title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
-    date: "May 2023",
+    title: "Integrated free medical checks",
+    text: "We offer free medical checks to our registered customers and also offer partner with clinics for efficient healthcare delivery.",
+    date: " Since May 2024",
     status: "progress",
     imageUrl: roadmap4,
   },
@@ -209,34 +208,34 @@ export const pricing = [
   {
     id: "0",
     title: "Basic",
-    description: "AI chatbot, personalized recommendations",
+    description: "Standard gym sessions.",
     price: "0",
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Daily gym visitation from mondays to fridays",
+      "General instructions within a group or division.",
+      "Follow up and general care",
     ],
   },
   {
     id: "1",
     title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
+    description: "Personalized gym sessions",
     price: "9.99",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "Personal gym visitation from mondays to fridays",
+      "Special instructions within a group or division.",
+      "Follow up and general care",
     ],
   },
   {
     id: "2",
-    title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
-    price: null,
+    title: "Gold",
+    description: "Accelerated gym sessions.",
+    price: 15.99,
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Custom gym visitation from mondays to fridays",
+      "Private instructions within a group or division.",
+      "Follow up and general care",
     ],
   },
 ];
