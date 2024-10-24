@@ -244,7 +244,7 @@ export const benefits = [
   {
     id: "0",
     title: "Expert And Qualified Trainers",
-    text: "We have best, skilled, and qualified trainers in Mikegym. We have trainers with over 10 years of working, teaching and training experience.",
+    text: "We have best, skilled, and qualified trainers in FitPulse. We have trainers with over 10 years of working, teaching and training experience.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: gymImage1,
@@ -252,7 +252,7 @@ export const benefits = [
   {
     id: "1",
     title: "Flexible Workout Time",
-    text: "Mikegym has one of the best flexible workout time schedule. We provide fitness services for our members, base on their convinient time.",
+    text: "FitPulse has one of the best flexible workout time schedule. We provide fitness services for our members, base on their convinient time.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: gymImage2,
