@@ -252,7 +252,7 @@ export const benefits = [
   {
     id: "1",
     title: "Flexible Workout Time",
-    text: "FitPulse has one of the best flexible workout time schedule. We provide fitness services for our members, base on their convinient time.",
+    text: "FitPulse has one of the best flexible workout time schedule. We provide fitness services for our members, based on their convenience.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: gymImage2,
@@ -260,7 +260,7 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect to us from everywhere",
+    title: "Connect To Us From Everywhere",
     text: "Connect with FitPulse from anywhere within the globe, through live chat with our instructors or admin. We respond realtime.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
@@ -278,15 +278,15 @@ export const benefits = [
   {
     id: "4",
     title: "Special sessions",
-    text: "Book special sessions according to your time schedule and get maximum benefits in return.",
+    text: "Book special sessions according to your  schedule and get maximum benefits in return.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: gymImage4,
   },
   {
     id: "5",
-    title: "Healthy lifestyle weekly newsletter",
-    text: "When ypu are registered with us, be assured of weekly updates on how to keep fit and healthy.",
+    title: "Healthy Lifestyle Weekly Newsletter",
+    text: "When you are registered with us, be assured of weekly updates on how to keep fit and healthy.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: gymImage5,
