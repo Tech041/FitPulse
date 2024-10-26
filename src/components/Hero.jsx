@@ -23,11 +23,11 @@ const Hero = () => {
           <h1 className="h1 mb-6 capitalize text-white">
             Where fitness becomes your lifestyle
           </h1>
-          <p className="body-1 max-w-3xl mx-auto mb-6 text-purple-500 font-semibold lg:mb-8">
+          <p className="body-1 max-w-3xl mx-auto mb-6 md:text-white font-semibold lg:mb-8 bg-gray-500/60 md:bg-gray-500/30">
             FitPulse is the best gym in the city of Lagos, we have skillful and
             professional instructors.
           </p>
-          <Button href="/pricing" white>
+          <Button href="#contact" white>
             Book Now
           </Button>
         </div>

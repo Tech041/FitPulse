@@ -21,7 +21,7 @@ const handleSubmit = (e) => {
 
 const Contact = () => {
   return (
-    <Section id="how-to-use">
+    <Section id="contact">
       <div className="container">
         <Heading
           title="JOIN NOW TO GET IN SHAPE."

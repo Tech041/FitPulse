@@ -39,12 +39,12 @@ export const navigation = [
   {
     id: "0",
     title: "Benefits",
-    url: "#features",
+    url: "#benefits",
   },
   {
     id: "1",
     title: "contact us",
-    url: "#how-to-use",
+    url: "#contact",
   },
   {
     id: "2",
@@ -54,7 +54,7 @@ export const navigation = [
   {
     id: "3",
     title: "about us",
-    url: "#roadmap",
+    url: "#about",
   },
   {
     id: "4",

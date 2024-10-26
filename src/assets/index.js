@@ -78,6 +78,7 @@ import gymImage5 from "./benefits/gymImage5.jpeg";
 import gymImage6 from "./benefits/gymImage6.jpg";
 import gymImage7 from "./benefits/gymImage7.jpg";
 import gymImage8 from "./benefits/gymImage8.jpg";
+import gymer from "./gymer.jpg";
 
 import benefitImage2 from "./benefits/image-2.png";
 
@@ -122,6 +123,7 @@ export {
   curve,
   heroImage,
   robot,
+  gymer,
   heroBackground,
   curve1,
   curve2,

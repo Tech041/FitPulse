@@ -7,7 +7,7 @@ import { check2, grid, loading1 } from "../assets";
 import { Gradient } from "./design/Roadmap";
 
 const About = () => (
-  <Section className="overflow-hidden" id="roadmap">
+  <Section className="overflow-hidden" id="about">
     <div className="container md:pb-10">
       <Heading tag="What do you know about FitPulse" title="About FitPulse" />
 
